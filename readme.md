@@ -6,11 +6,11 @@ Este layout foi feito baseado no desafio do Frontend Mentor e em umm dos exercí
 - Css.
 
 ## Layout esperado Desktop:
-<img src="./src/design/layout-menu-flexbox-desktop" alt="Imagem exemplo do layout no formato de desktop">
+<img src="./src/design/layout-menu-flexbox-desktop.jpg" alt="Imagem exemplo do layout no formato de desktop">
 
 
 ## Layout esperado no mobile:
-<img src="./src/design/layout-menu-flexbox-mobile" alt="Imagem exemplo do layout no formato mobile">
+<img src="./src/design/layout-menu-flexbox-mobile.png" alt="Imagem exemplo do layout no formato mobile">
 
 ## Serviços usados
 - VSCode;
